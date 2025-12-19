@@ -13,7 +13,7 @@ credit and acknowledgement: i would like to deeply thanks and express my sincere
 (https://github.com/rishabhnmishra) for giving end to end guidance of this ptoject
 
 ## 📊 Dashboard Preview
-![creadit_card_dashboard](cc_transactio_report_screenshot.png)
+![creadit_card_dashboard](cc_transaction_report_screenshot.png)
 
 
 
